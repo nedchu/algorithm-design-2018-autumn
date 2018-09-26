@@ -7,6 +7,8 @@
 日期：2018-9-27 13:00 ~ 2018-10-11 12:00 (注意由于国庆时间为两周)
 
 内容：前三题为输入输出演示，后三题为图论的基础内容，其中后两题对应于教材中的习题 22.1-6, 22-3(b)
+
+资料：[教程：输入输出及图构建](https://github.com/nedchu/algorithm-design-2018-autumn/blob/master/tutorial-on-IO-graph-construction.md)
 ## 课程信息
 教师：卜天明(tmbu@sei.ecnu.edu.cn)
 

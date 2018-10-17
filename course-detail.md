@@ -8,3 +8,14 @@
 资料：[教程：输入输出及图构建](https://github.com/nedchu/algorithm-design-2018-autumn/blob/master/tutorial-on-IO-graph-construction.md)
 
 ## 2018.10.11 ~ 2018.10.18 拓扑序 强连通分量
+地址：https://vjudge.net/contest/260682
+
+日期：2018.10.11 ~ 2018.10.18
+
+内容：习题 22.3-13, 22.4-2, 22-4.
+
+A题为搜索的温习，BC为拓扑序，DE为强连通分量，其中BD比较基础。
+
+C对应于习题 22.4-2，E对应于习题 22-4，问题上不是完全一致的，请仔细阅读题面。习题 22.3-13 没有找到类似的问题，题意略微有点接近E。
+
+资料：[拓扑序及强连通分解](./tutorial-topo-SCC.md)

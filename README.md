@@ -41,8 +41,8 @@ Virtual Judge 中的账号请使用学号注册，昵称为本人名字。
 作业中的每一道题目在截至日期内可以任意提交多次。若系统返回结果为 `Accepted`，则视本题为正确做出；若在截至日期内每一次提交都没有返回 `Accepted`，则视本题未做出。
 
 ## 快速检索列表
-1. 2018.9.27 ~ 2018.10.11：[作业链接](https://vjudge.net/contest/256823) [输入输出及图构建](./tutorial-on-IO-graph-construction.md) 习题 22.1-6, 22-3(b).
-2. 2018.10.11 ~ 2018.10.18：[作业链接](https://vjudge.net/contest/260682) [拓扑序及强连通分解](./tutorial-topo-SCC.md) 习题 22.3-13, 22.4-2, 22-4
+1. 2018.9.27 ~ 2018.10.11：[作业](https://vjudge.net/contest/256823) [输入输出及图构建](./tutorial-on-IO-graph-construction.md) 习题 22.1-6, 22-3(b).
+2. 2018.10.11 ~ 2018.10.18：[作业](https://vjudge.net/contest/260682) [拓扑序及强连通分解](./tutorial-topo-SCC.md) 习题 22.3-13, 22.4-2, 22-4
 
 ## 贡献
 感谢茹钟莹同学在的第一次作业中的指正

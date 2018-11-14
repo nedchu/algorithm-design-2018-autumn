@@ -35,3 +35,19 @@ A对应于习题 22.2-7，B对应于习题 22.2-8，CD是BFS的练习
 本次作业题目不要求 Dijkstra 的优先队列优化。
 
 A为基础Dijkstra，B对应了习题 24.3-6，剩余题目为练习题，均为最短路问题。
+
+## 2018.11.1 ~ 2018.11.15 优先队列，最短路
+地址：https://vjudge.net/contest/266714
+POJ挂掉的替代：https://vjudge.net/contest/269782
+
+内容：习题  6-3, 24.1-4, 24.1-5, 24.2-3, 24-3.
+
+6-3 杨氏矩阵，面试题中挺常见的，有兴趣的同学自行注册提交 [LeetCode:Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+ [牛客网:二维数组中的查找](https://www.nowcoder.com/ta/coding-interviews?page=1)
+LeetCode还有牛客网非常适合找工作笔试面试的时候练习，多数考察算法中基础的内容。
+
+24.1-5 没有找到类似的问题，其他问题都找到了比较合适的题目
+
+问题A,B拿来练手的，问题C对应于习题 24.1-4，问题D对应于习题 24.2-3，问题E对应于习题 24-3.
+
+资料：[优先队列，最短路](tutorial-on-PQ-SP.md)

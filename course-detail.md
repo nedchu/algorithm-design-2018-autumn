@@ -60,3 +60,14 @@ LeetCode还有牛客网非常适合找工作笔试面试的时候练习，多数
 后三题对应了课本中的 16-1, 16-2, 16-5
 
 资料：本周没有资料，之前优先队列的内容可以用到
+
+## 2018.11.29 ~ 2018.12.13 分治
+地址：https://vjudge.net/contest/273062
+
+内容：习题 2.3-7, 2-4, 9.3-8, 9.3-9.
+
+2.3-7, 9.3-8 能够在 LeetCode 上找到原题，是常见的面试问题，分别是 [Two Sum](https://leetcode.com/problems/two-sum/) & [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+A 对应了 2.3-7，B对应了 2-4，C对应了 9.3-9，剩下来两题是两道补充问题，时长为两周。
+
+资料：[分治](./tutorial-on-binary-search.md)

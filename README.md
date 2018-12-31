@@ -34,6 +34,8 @@ ABC对应了15-2, 15-4, 15-6，剩下来一题为补充问题，时长为两周�
 
 作业：[作业列表](https://vjudge.net/contest#category=all&running=0&title=&owner=seitraining) [作业内容详细介绍](./course-detail.md)
 
+作业统计情况汇总：目录下的 xlsx 统计表（若未被统计可能是使用的 vjudge 用户id 与学号不符合，请告知助教以进行修正）
+
 ## 关于作业和考试
 作业均布置于 [Virtual Judge](https://vjudge.net/) 系统中，这里是 [作业列表](https://vjudge.net/contest#category=all&running=0&title=&owner=seitraining)。
 
